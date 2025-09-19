@@ -1,47 +1,6 @@
-📌 Project: Retail Sales Analytics using Snowflake SQL
-
-Description:
-Designed and implemented a retail sales database in Snowflake Cloud Data Warehouse to analyze customer behavior, sales performance, and inventory management. Created a relational schema, ingested large datasets (>5,000 rows), and executed advanced SQL queries to generate business insights.
-
-Key Contributions:
-
-Created a retail sales schema with 6 tables (Customers, Orders, OrderDetails, Products, Categories, Suppliers).
-
-Ingested structured datasets (>5,000 rows) into Snowflake using Web UI drag-and-drop and handled data quality issues (headers, nulls).
-
-Wrote optimized SQL queries to extract KPIs such as:
-
-Top-selling products and categories
-
-Monthly revenue trends
-
-Customer lifetime value (CLV) and top spenders
-
-Low-stock inventory alerts
-
-Applied joins, aggregations, and date functions to answer complex business questions.
-
-Delivered insights useful for sales forecasting, customer segmentation, and inventory planning.
-
-Tech Stack:
-Snowflake, SQL, CSV Data
-
-👉 This way, you can show it as a Cloud SQL Analytics Project.
-When you fix your Snowflake → Power BI connection, you can extend it to “Retail Sales Dashboard using Power BI & Snowflake”.
-
-Would you like me to also prepare a GitHub README template for this project (like you had for Flipkart/Blinkit), so you can upload it and showcase it properly?
-
-You said:
-yes
-ChatGPT said:
-
-Great 🚀 Dinesh! Here’s a GitHub README template you can directly use for your Snowflake SQL Retail Sales Project.
-
-🛒 Retail Sales Analytics – Snowflake SQL Project
 📌 Project Overview
 
-This project demonstrates the use of Snowflake Cloud Data Warehouse for building and analyzing a Retail Sales Database.
-The objective is to perform end-to-end data analytics on retail transactions, customer purchases, and inventory to derive meaningful business insights.
+Designed and implemented a retail sales database in Snowflake Cloud Data Warehouse to analyze customer behavior, sales performance, and inventory management. Created a relational schema, ingested large datasets (>5,000 rows), and executed advanced SQL queries to generate business insights.
 
 📂 Dataset
 
